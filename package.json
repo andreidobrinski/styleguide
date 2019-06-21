@@ -1,7 +1,9 @@
 {
   "name": "@andreidobrinski/styleguide",
-  "version": "0.1.0",
-  "dependencies": {},
+  "version": "0.2.0",
+  "dependencies": {
+    "styled-components": "^4.2.1"
+  },
   "main": "dist/index.js",
   "module": "dist/index.js",
   "files": [
